@@ -1,0 +1,10 @@
+1) Assessment_Vaibhav.ipynb is the code file that contains the model.
+	a) Documentation for Ipynb.docx contains all the thought process involved in feature selection and feature engineering.
+	b) train.csv is used in the model for training.
+	c) test.csv is the validation file used in the code file.
+	d) sample.csv contains the structure sample of submission on AV.
+	e) output2.csv is the final submission file for ROC evaluation.
+2) FinalFile.pbix is the PowerBI insights file that contains visualisations that work with the code file.
+	a) train_with_pct.csv is used as the reference file in PowerBI.	 
+	b) Insight Explanation.mp4 is the video explaining the insights gathered from BI file.
+	c) Reference for Insight Presentation.pdf is used to present the insights of PowerBI in the video.
