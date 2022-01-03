@@ -12,5 +12,6 @@ Experiments
 4) TensorFlow Practice - Practice notes after learning Tensorflow from Coursera. Files Used - https://drive.google.com/drive/folders/1MgbhxAEXMP8PiugIqYRWY-odT-QBDOFO?usp=sharing
 5) Agent Prediction - Predicting if an applicant is capable of bringing in business.
 6) Credit Card Lead - Predicting if a customer of the bank can be approached to register for a credit card
+7) Racism in US - https://github.com/Vennamm/Racism-in-US
 
 
